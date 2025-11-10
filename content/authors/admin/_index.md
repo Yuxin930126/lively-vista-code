@@ -3,14 +3,14 @@
 title: Alex Johnson
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+#name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: WENHAI
+last_name: LEI
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: he/him
 
 # Status emoji
 status:
@@ -23,35 +23,34 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoc Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: KTH Royal Institute of Technology
+    #url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mwenhai@kth.se'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  - #icon: brands/x
+    #url: https://twitter.com/AlexAIResearch
+  - #icon: brands/github
+    #url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/wenhai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=2TUvSTIAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-7980-9691
 
-interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+Research Interests:
+  - Multiphase flow in porous media
+  - Micro/nanoparticle transport in porous media
+  - Microfluidics
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -135,11 +134,11 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+#languages:
+  #- name: English
+  #  percent: 100
+  #- name: Spanish
+  #  percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
